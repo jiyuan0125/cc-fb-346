@@ -1,0 +1,8 @@
+{
+  "date": "2026-11-20",
+  "tasks": [
+    {"id": "O1", "site": "S1", "dur_min": 60, "deps": [], "earliest": "08"},
+    {"id": "O2", "site": "S1", "dur_min": 60, "deps": [], "earliest": "08"},
+    {"id": "O3", "site": "S1", "dur_min": 60, "deps": [], "earliest": "08"}
+  ]
+}
